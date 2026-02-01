@@ -256,7 +256,7 @@
       },
       {
         "component": "text",
-        "name": "classes_fullwidth",
+        "name": "fullwidth",
         "label": "Full Width",
         "valueType": "string",
         "value": ""
