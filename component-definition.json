@@ -169,7 +169,7 @@
                   "model": "quote",
                   "quote": "<p>Think, McFly! Think!</p>",
                   "author": "Biff Tannen",
-                  "classes_fullwidth": "true"
+                  "fullwidth": "fullwidth"
                 }
               }
             }
