@@ -255,11 +255,11 @@
         ]
       },
       {
-        "component": "checkbox",
+        "component": "text",
         "name": "classes_fullwidth",
         "label": "Full Width",
-        "valueType": "boolean",
-        "value": false
+        "valueType": "string",
+        "value": ""
       }
      ]
   }
