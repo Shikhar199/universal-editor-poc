@@ -254,6 +254,12 @@
             "value": "bg-blue"
           }
         ]
+      },
+      {
+        "component": "checkbox",
+        "name": "classes_fullwidth",
+        "label": "Full Width",
+        "valueType": "boolean"
       }
      ]
   }
