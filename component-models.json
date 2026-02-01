@@ -255,7 +255,7 @@
         ]
       },
       {
-        "component": "text",
+        "component": "checkbox",
         "name": "fullwidth",
         "label": "Full Width",
         "valueType": "string",
