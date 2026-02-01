@@ -233,7 +233,7 @@
          "value": ""
        },
        {
-        "component": "select",
+        "component": "checkbox",
         "name": "classes",
         "value": "",
         "label": "Background Color",
@@ -253,13 +253,6 @@
             "value": "bg-blue"
           }
         ]
-      },
-      {
-        "component": "text",
-        "name": "fullwidth",
-        "label": "Full Width",
-        "valueType": "string",
-        "value": ""
       }
      ]
   }
