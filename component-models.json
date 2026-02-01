@@ -239,7 +239,6 @@
         "label": "Background Color",
         "description": "The quote background color",
         "valueType": "string",
-        "classes_fullwidth": true,
         "options": [
           {
             "name": "Red",
@@ -259,7 +258,8 @@
         "component": "checkbox",
         "name": "classes_fullwidth",
         "label": "Full Width",
-        "valueType": "boolean"
+        "valueType": "boolean",
+        "value": ""
       }
      ]
   }
