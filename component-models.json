@@ -239,6 +239,7 @@
         "label": "Background Color",
         "description": "The quote background color",
         "valueType": "string",
+        "classes_fullwidth": true,
         "options": [
           {
             "name": "Red",
